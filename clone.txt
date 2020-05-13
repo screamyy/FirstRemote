@@ -1,1 +1,2 @@
 clone repository
+tag manage
